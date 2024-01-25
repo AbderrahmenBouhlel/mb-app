@@ -4,6 +4,8 @@ distlib==0.3.8
 dj-database-url==2.1.0
 Django==5.0.1
 filelock==3.13.1
+gunicorn==21.2.0
+packaging==23.2
 pipenv==2023.11.17
 platformdirs==4.1.0
 psycopg2-binary==2.9.9
